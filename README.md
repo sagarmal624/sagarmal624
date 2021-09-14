@@ -13,7 +13,6 @@
 - 💬 Ask me about **Java, Spring Boot,ReactJs,javascript,Nodejs, css, html, express, graphql, node, docker, Kubernetes,Microservices,WebServices
 
 
-![sagarmal624](https://github-readme-stats.vercel.app/api/top-langs?username=sagarmal624&show_icons=true&locale=en&layout=compact)
 
  ![sagarmal624](https://github-readme-stats.vercel.app/api?username=sagarmal624&show_icons=true&locale=en)
 
@@ -64,5 +63,6 @@
  9. Jira, Notion, Airtable
  10. ESLint, Prettier, Husky
  11. MongoDB Compass, pgAdmin, DBeaver, Firebase Console 
+![sagarmal624](https://github-readme-stats.vercel.app/api/top-langs?username=sagarmal624&show_icons=true&locale=en&layout=compact)
 
 
