@@ -12,6 +12,13 @@
 - 🌱 I’m currently working on Java Related TechStack
 - 💬 Ask me about **Java, Spring Boot,ReactJs,javascript,Nodejs, css, html, express, graphql, node, docker, Kubernetes,Microservices,WebServices
 
+
+![sagarmal624](https://github-readme-stats.vercel.app/api/top-langs?username=sagarmal624&show_icons=true&locale=en&layout=compact)
+
+ ![sagarmal624](https://github-readme-stats.vercel.app/api?username=sagarmal624&show_icons=true&locale=en)
+
+![sagarmal624](https://github-readme-streak-stats.herokuapp.com/?user=sagarmal624&)
+
 #### Connect with me:
 1. Gmail: sagarmal624@gmail.com
 2. LinkedIn: [https://www.linkedin.com/in/sagarmal624/](https://www.linkedin.com/in/sagarmal624/)
@@ -59,8 +66,3 @@
  11. MongoDB Compass, pgAdmin, DBeaver, Firebase Console 
 
 
-![sagarmal624](https://github-readme-stats.vercel.app/api/top-langs?username=sagarmal624&show_icons=true&locale=en&layout=compact)
-
- ![sagarmal624](https://github-readme-stats.vercel.app/api?username=sagarmal624&show_icons=true&locale=en)
-
-![sagarmal624](https://github-readme-streak-stats.herokuapp.com/?user=sagarmal624&)
