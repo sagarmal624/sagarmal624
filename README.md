@@ -3,8 +3,10 @@
 ========================
 #### A passionate Product Engineer from Gurgaon, India
 
+![prvnbist](https://komarev.com/ghpvc/?username=sagarmal624&label=Profile%20views&color=0e75b6&style=flat)
 
-  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+[![prvnbist](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 - 🌱 I’m currently working on Java Related TechStack
