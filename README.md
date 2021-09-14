@@ -3,13 +3,9 @@
 ========================
 #### A passionate Product Engineer from Gurgaon, India
 
-![prvnbist](https://komarev.com/ghpvc/?username=sagarmal624&label=Profile%20views&color=0e75b6&style=flat)
 
-[![prvnbist](https://github-profile-trophy.vercel.app/?username=sagarmal624)](https://github.com/ryo-ma/github-profile-trophy)
+  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 
-[![prvnbist](https://img.shields.io/twitter/follow/sagarmal624?logo=twitter&style=for-the-badge)](https://twitter.com/sagarmal624)
-
-  
 
 - 🌱 I’m currently working on Java Related TechStack
 - 💬 Ask me about **Java, Spring Boot,ReactJs,javascript,Nodejs, css, html, express, graphql, node, docker, Kubernetes,Microservices,WebServices
