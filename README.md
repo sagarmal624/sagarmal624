@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Sagar Shankhala
 ========================
-#### A passionate full stack developer from Gurgaon, India
+#### A passionate Product Engineer from Gurgaon, India
 
 ![prvnbist](https://komarev.com/ghpvc/?username=prvnbist&label=Profile%20views&color=0e75b6&style=flat)
 
