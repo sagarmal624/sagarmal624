@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Praveen Bisht
 ========================
-#### A passionate full stack developer from New Delhi, India
+#### A passionate full stack developer from Gurgaon, India
 
 ![prvnbist](https://komarev.com/ghpvc/?username=prvnbist&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -60,9 +60,3 @@
  9. Jira, Notion, Airtable
  10. ESLint, Prettier, Husky
  11. MongoDB Compass, pgAdmin, DBeaver, Firebase Console 
-
-![prvnbist](https://github-readme-stats.vercel.app/api/top-langs?username=prvnbist&show_icons=true&locale=en&layout=compact)
-
- ![prvnbist](https://github-readme-stats.vercel.app/api?username=prvnbist&show_icons=true&locale=en)
-
-![prvnbist](https://github-readme-streak-stats.herokuapp.com/?user=prvnbist&)
