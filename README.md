@@ -11,9 +11,8 @@
 
   
 
-- 🌱 I’m currently working on building a blue apron style subscription shop.
-- 📄 Know about my experiences [https://www.prvnbist.com](https://www.prvnbist.com)
-- 💬 Ask me about **Java, Spring Boot,ReactJs,javascript,Nodejs, css, html, express, graphql, node, docker, Kubernetes**
+- 🌱 I’m currently working on Java Related TechStack
+- 💬 Ask me about **Java, Spring Boot,ReactJs,javascript,Nodejs, css, html, express, graphql, node, docker, Kubernetes,Microservices,WebServices
 
 #### Connect with me:
 1. Gmail: sagarmal624@gmail.com
