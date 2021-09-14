@@ -3,9 +3,9 @@
 ========================
 #### A passionate Product Engineer from Gurgaon, India
 
-![prvnbist](https://komarev.com/ghpvc/?username=sagarmal624&label=Profile%20views&color=0e75b6&style=flat)
+![sagarmal624](https://komarev.com/ghpvc/?username=sagarmal624&label=Profile%20views&color=0e75b6&style=flat)
 
-[![prvnbist](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![sagarmal624](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -57,3 +57,10 @@
  9. Jira, Notion, Airtable
  10. ESLint, Prettier, Husky
  11. MongoDB Compass, pgAdmin, DBeaver, Firebase Console 
+
+
+![sagarmal624](https://github-readme-stats.vercel.app/api/top-langs?username=sagarmal624&show_icons=true&locale=en&layout=compact)
+
+ ![sagarmal624](https://github-readme-stats.vercel.app/api?username=sagarmal624&show_icons=true&locale=en)
+
+![sagarmal624](https://github-readme-streak-stats.herokuapp.com/?user=sagarmal624&)
