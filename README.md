@@ -62,7 +62,4 @@
  8. Slack, Discord
  9. Jira, Notion, Airtable
  10. ESLint, Prettier, Husky
- 11. MongoDB Compass, pgAdmin, DBeaver, Firebase Console 
-![sagarmal624](https://github-readme-stats.vercel.app/api/top-langs?username=sagarmal624&show_icons=true&locale=en&layout=compact)
-
-
+ 11. MongoDB Compass, pgAdmin, DBeaver, Firebase Console
