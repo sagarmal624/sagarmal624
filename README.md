@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Sagar Shankhala
 ========================
-#### A passionate Product Engineer from Gurgaon, India
+#### A passionate Product Engineer from Hyderabad, India
 
 ![sagarmal624](https://komarev.com/ghpvc/?username=sagarmal624&label=Profile%20views&color=0e75b6&style=flat)
 
