@@ -1,6 +1,11 @@
 
 ## Hi 👋, I'm Sagar Shankhala
 ========================
+#### Connect with me:
+1. Gmail: sagarmal624@gmail.com
+2. LinkedIn: [https://www.linkedin.com/in/sagarmal624/](https://www.linkedin.com/in/sagarmal624/)
+3. Whats App: +91-9166338872
+
 #### A passionate Product Engineer from Hyderabad, India
 
 ![sagarmal624](https://komarev.com/ghpvc/?username=sagarmal624&label=Profile%20views&color=0e75b6&style=flat)
@@ -18,9 +23,7 @@
 
 ![sagarmal624](https://github-readme-streak-stats.herokuapp.com/?user=sagarmal624&)
 
-#### Connect with me:
-1. Gmail: sagarmal624@gmail.com
-2. LinkedIn: [https://www.linkedin.com/in/sagarmal624/](https://www.linkedin.com/in/sagarmal624/)
+
 
 ### Languages, Tools, Frameworks:
 **Front End**
